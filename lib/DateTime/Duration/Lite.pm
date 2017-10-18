@@ -329,7 +329,11 @@ sub _compare_overload {
 1;
 # ABSTRACT: Duration objects for date math (lite version)
 
+=for Pod::Coverage ^(.+)$
+
 =head1 SYNOPSIS
+
+Use like you would L<DateTime::Duration>.
 
 
 =head1 DESCRIPTION
