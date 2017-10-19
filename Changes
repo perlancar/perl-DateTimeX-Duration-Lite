@@ -1,4 +1,4 @@
-0.002   2017-10-19 (PERLANCAR) (unreleased)
+0.002   2017-10-19 (PERLANCAR)
 
         - Rename module from DateTime::Duration::Lite to
           DateTimeX::Duration::Lite (requested by DROLSKY).
