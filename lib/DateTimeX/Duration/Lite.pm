@@ -1,4 +1,4 @@
-package DateTime::Duration::Lite;
+package DateTimeX::Duration::Lite;
 
 # DATE
 # VERSION
@@ -321,7 +321,7 @@ sub _multiply_overload {
 }
 
 sub _compare_overload {
-    Carp::croak( 'DateTime::Duration::Lite does not overload comparison.'
+    Carp::croak( 'DateTimeX::Duration::Lite does not overload comparison.'
             . '  See the documentation on the compare() method for details.'
     );
 }
